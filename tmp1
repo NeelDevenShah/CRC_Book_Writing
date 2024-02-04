@@ -1,0 +1,116 @@
+With the development and the usage of the internet 5.0
+
+Prognostic based health management
+
+Growth of the unsupervied learning algorithm, Also include some of the unsupervised learnnig algorithm
+
+ave costs, optimize maintenance schedules, and lessen production
+process interruptions, predictive maintenance, or a system’s capacity to predict possible
+machinery problems and plan repairs before they occur, has gained popularity
+
+
+Uasge of DT for the simulation and active planning
+
+A further study into the development of a DT consolidated PM system for such machines
+is even rarer in pursued research, with comprehensive implementation largely unexplored.
+
+
+RUL, EOL
+
+Rise of the transformer based model, paper 3
+
+8 Role of artificial intelligence on predictive maintenance in the oil and gas industry It is increasingly applied in the OGI for PdM programs.
+
+There are several ways in which AI can enhance PdM in the OGI [13–19]:
+
+(i). Predictive modeling AI algorithms can be utilized to create predictive models that analyze data onequipment performance and identify potential issues before they occur.
+
+(ii). Real-time monitoring AI-powered sensors and monitoring systems can be used to collect data on equipment performance in real time, allowing for the early identification of potential issues.
+
+(iii). Machine learning AI algorithms can learn from data over time, allowing them to improve their predictive capabilities and become more accurate at identifying maintenance needs.
+
+(iv). Automated maintenance scheduling AI can be used to automate the scheduling of maintenance, ensuring that it is performed at the optimal time to minimize downtime and optimize equipment performance.
+
+
+Usage of the GAN for sythetic data generation
+
+New trend of the transfer learning -> State of the art approaches
+
+Aspect of the big data for the new manufacturing in AI
+
+Aspect of the IoT
+
+Knowledge Graph based approach
+
+------------
+
+challenges
+2
+
+future direction
+4 (most of)
+
+AI -> optimization problem by knowledge graph
+
+--------------
+
+All have to co-ordinate with each other as this things can be done by collabration. So that if one have to edit tha
+
+Task 1: Change the title of the lines and the number lines below each image, And also write some of the description of that image in the above image.
+
+Task 2: Change the title of the lines and the number lines below each table, And also write some of the description of that image in the above image.
+
+Task 3: Plagarism
+
+Task 4: Gramatical errors
+
+Task 5: Gramatical errors
+
+---------------------------------
+
+1. Synthetic Dataset
+2. Vocal And Global
+3. High end computation requried
+4. Non realtime prediction
+5. Unbalanced / less hetrogenity of the data
+6. Noisy data
+
+1. Introduction
+2. Different Types Of Maintenance Strategies
+3. New Research Trends In Manufacturing
+3.1 Usage Of IoT In Modern Manufacturing
+3.2 Usage Of Big Data In Modern Manufacturing
+3.3 Development Of AI Technologies In Manufacturing
+3.4 Digital Twin
+4. Conception Of Different AI Technologies
+4.1 Artificial Intelligence And Machine Learning
+4.2 Deep Learning
+4.2.1 Convolution Layers
+4.2.2 Transformer Architecture
+4.3 Reinforcement Learning
+4.4 Un-Supervised Learning
+4.5 Trasfer Learning
+4.6 State-Of-The-Art Models
+5. Digital Twins
+6. Role of Artificial Intelligence In Predictive Maintenance
+6.1 Types Of Data Used For The Predictive Maintenance
+6.2 Synthetic Data Generation
+6.2.1 Generative Adversarial Net (GAN)
+6.2.2 Diffusion Models
+6.3 Prognostic And Health management (PHM)
+6.3.1 Remainging Useful Time (RUL)
+6.3.2 End Of Life (EOL)
+6.4 Anomaly Detection
+6.5 Maintenance Strategy Optimization
+7. Limitations And Challenges
+8. Opportunities And Future Scope
+9. Concluding Remarks
+
+------------------------------
+
+There are three promising RL methods for improving agent performance when transitioning from simulation to real environments with uncertainties [13-13]. They are mentioned as below:
+    • Robust RL focuses on designing the agent to handle disturbances and variations in the real world through techniques like manipulating transitions, adding external forces, and perturbing actions [13-13].
+    • Meta-RL uses past experiences from simulations to learn faster and adapt to new situations in the real world, addressing the challenge of limited data and improving sample efficiency for tasks like PdM [13-13].
+    • Batch Reinforcement Learning (offline training) presents a promising avenue for training RL agents for predictive maintenance, due to its data efficiency and ability to create stable agents transferable to real-world environments [13-13.2].
+
+Predictive maintenance requires a sophisticated approach due to its complex and often non-stationary environment [13-8]. Hidden-Mode MDPs (HM-MDPs) provide a model for non-stationary environments by representing different phases or modes [13-8]. Partially Observable MDPs (POMDPs) allow for situations where the agent doesn't observe the full state but relies on history and observations [13-8]. Traditional mathematical modeling for planning and scheduling in operations research faces difficulties with the dynamic and complex nature of predictive maintenance [13-9]. Modeling the trade-offs between factors like downtime costs, reliability targets, penalties, and labor costs can lead to a very complex optimization problem [13-9]. In contrast, a model-free RL approach offers a more suitable solution for PdM due to its ability to handle dynamic environments and complex objectives without requiring explicit modeling [13-9].
